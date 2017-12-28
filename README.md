@@ -2,18 +2,18 @@
 
 Simple DevProfile android app, written in kotlin
 
-## Phone Portrait
+_Phone Portrait_
 
-<img src="./img/phone.png" alt="Phone portrait" width="200px">
+<img src="./img/phone.png" alt="Phone portrait" width="250px">
 
-## Phone Landscape
+_Phone Landscape_
 
-<img src="img/phone-ls.png" alt="Phone Landscape" width="500px">
+<img src="img/phone-ls.png" alt="Phone Landscape" width="450px">
 
-## Tablet Portrait
+_Tablet Portrait_
 
-<img src="./img/tablet.png" alt="Tablet Portrait" width="300px">
+<img src="./img/tablet.png" alt="Tablet Portrait" width="350px">
 
-## Tablet Landscape
+_Tablet Landscape_
 
-<img src="./img/tablet-ls.png" alt="Tablet Landscape" width="700px">
+<img src="./img/tablet-ls.png" alt="Tablet Landscape" width="600px">
